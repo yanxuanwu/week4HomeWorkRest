@@ -1,6 +1,6 @@
 # week4HomeWorkRest
 
-Insert a provider 
+# Insert a provider 
 
 Request Url : /userinfo
 
@@ -30,7 +30,7 @@ Response Body:
     }
      
  
-Get a provider
+# Get a provider
 
 Request Url : /userinfo/{id}
 
@@ -51,7 +51,7 @@ Response Body:
     
     
     
-Delete a provider by id
+# Delete a provider by id
 
 Request Url : /userinfo/{id}
 
@@ -63,7 +63,7 @@ Response Body: NO content
     
 
 
-Delete a provider
+# Delete a provider
 
 Request Url : /userinfo
 
@@ -84,7 +84,7 @@ Request Body :
 Response Body: NO content
 
 
-Update a provider 
+# Update a provider 
 
 Request Url : /userinfo
 

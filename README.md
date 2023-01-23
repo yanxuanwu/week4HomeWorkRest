@@ -19,6 +19,7 @@ Request Body :
     }
   
 Response Body:
+
     {
         "provider" : {
             "firstName" : "R",
@@ -38,6 +39,7 @@ Request method : Get
 Request Parameter: id
   
 Response Body:
+
     {
         "provider" : {
             "firstName" : "R",
@@ -101,6 +103,7 @@ Request Body :
     }
   
 Response Body:
+
     {
         "provider" : {
             "firstName" : "R",
